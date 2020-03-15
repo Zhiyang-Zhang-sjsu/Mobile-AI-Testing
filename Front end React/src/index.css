@@ -1,5 +1,54 @@
 body {
   margin: 0;
-  padding: 20px 0 0 0;
+  padding: 0 0 0 0;
   font-family: sans-serif;
+}
+
+#home-title {
+  margin: 50px;
+  text-align: center;
+}
+
+#project {
+  margin-left: 150px;
+}
+
+#project-link {
+  padding: 5px 0 0 0;
+}
+
+#device-land {
+  margin-top: -125px;
+  margin-left: 500px;
+}
+
+#device-land-icon {
+  padding: 0 0 0 0;
+}
+
+#device-land-link {
+  padding: 10px 0 0 0;
+}
+
+#td-table {
+  margin-top: -125px;
+  margin-left: 850px;
+}
+
+#td-tabl-link {
+  padding: 3px 0 0 0;
+}
+
+#testing-target {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+#testing-script {
+  margin-top: -120px;
+  margin-left: 490px;
+}
+
+#testing-script-link {
+  padding: 5px 0 0 0;
 }

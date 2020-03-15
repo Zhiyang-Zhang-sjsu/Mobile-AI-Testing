@@ -14,7 +14,7 @@ class MobilesTable extends Component {
         content: mobile => (
           <button 
             onClick={() => this.props.onDelete(mobile)} 
-            className="btn btn-danger btn-sm"
+            className="btn btn-primary btn-sm"
           >
             +
           </button>
